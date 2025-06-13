@@ -9,6 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class FitnessTracker {
 
     public static void main(String[] args) {
+
         SpringApplication.run(FitnessTracker.class, args);
     }
 
